@@ -7,7 +7,9 @@ import adress_icon from '../assets/adress_icon.png';
 const Kontakt = () => {
   return (
     <div className="bg-[#F8FDFF] ">
-      <div className="px-7 pb-10 xl:mx-auto xl:max-w-[1439px] xl:px-36">
+      <div
+        className="px-7 pb-10 xl:mx-auto xl:max-w-[1439px] xl:px-36"
+        id="Kontakt">
         <p className="py-12 text-5xl font-bold">Kontakt</p>
         <div className="xl:flex">
           <div className="mb-6 flex flex-1 flex-col gap-10">
